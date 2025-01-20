@@ -91,9 +91,8 @@ function correctCredentials($username, $password) {
 <body>
 	<section class="masthead">
 		<video class="masthead-video" autoplay loop muted poster="assets/images/poster.jpg">
-		<!--	<source src="assets/videos/dreamscapes.mp4" type="video/mp4"> -->
-		<source src="assets/videos/gramofon.mp4" type="video/mp4">
-			<source src="assets/videos/dreamscapes.webm" type="video/webm">
+		<source src="assets/videos/dreamscapes.mp4" type="video/mp4">
+		<source src="assets/videos/dreamscapes.webm" type="video/webm">
 		</video>
 		<div class="masthead-overlay"></div>
 		
