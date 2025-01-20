@@ -9,7 +9,7 @@ require_once('global.php');
 	<li class='option tracklisting'>
 		<div class='about'>
 			<p>
-				<img id='aboutLogo' src='img/buzzsaw_icon_b.svg'>
+				<img id='aboutLogo' src='img/saw_icon_b.svg'>
 				<b>A new Audio Server version is available.</b>
 				<br>Please update soon to the new version.</a>
 				<!--<br><i>New Version: <?php echo $NVERSION; ?></i>
