@@ -12,7 +12,7 @@ $currentAlbum = "";
 $currenttrack_number = 0;
 $currentAlbumId = -1;
 $autoplay = true;
-$currentHTMLTitle = "Audio Server :: Public mp3Player";
+$currentHTMLTitle = "Piramide Studio NET :: Audio Server - Public mp3Player";
 $currentplaylist = "";
 $currentcover = "";
 $currentArtistId = -1;
@@ -260,7 +260,7 @@ function createCurrentPlaylistEntry($track_number, $title, $artist, $album, $pat
 <body>
 
 	<noscript>
-		JavaScript is not enabled in your browser. You have to enable JavaScript for BUZZSAW to work.
+		JavaScript is not enabled in your browser. You have to enable JavaScript for Audio Server to work.
 	</noscript>
 
 	<div id="logocontainer">
